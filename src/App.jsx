@@ -1,9 +1,9 @@
-import SongList from './SongList.jsx';
+import MusicPlayer from './MusicPlayer.jsx';
 
 function App() {
   return (
     <div className="App">
-      <SongList />
+      <MusicPlayer />
     </div>
   );
 }
