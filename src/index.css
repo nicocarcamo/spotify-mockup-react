@@ -18,7 +18,7 @@ tbody {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 80px;
+  height: 60px;
   background-color: #444;
   position: fixed;
   bottom: 0;
@@ -27,8 +27,8 @@ tbody {
 }
 
 .audio-controls button {
-  height: 50px;
-  width: 50px;
-  font-size: 1.2em;
+  height: 40px;
+  width: 40px;
+  font-size: 1em;
 }
 
