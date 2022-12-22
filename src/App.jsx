@@ -1,4 +1,4 @@
-import MusicPlayer from './MusicPlayer.jsx';
+import MusicPlayer from './components/MusicPlayer.jsx';
 
 const App = () => {
   return (

@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
-import SongList from './components/SongList';
-import AudioControls from './components/AudioControls';
-import './index.css';
+import SongList from './SongList';
+import AudioControls from './AudioControls';
+import '../index.css';
 
 const MusicPlayer = () => {
   const [play, setPlay] = useState(false);
